@@ -1,2 +1,6 @@
-MyProgram.java
- MyProgram
+lesson1/MyProgram.java
+ lesson1.MyProgram
+lesson1/Car.java
+ lesson1.Car
+lesson1/Engine.java
+ lesson1.Engine
