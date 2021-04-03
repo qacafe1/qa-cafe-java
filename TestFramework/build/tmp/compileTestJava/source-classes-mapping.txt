@@ -1,0 +1,2 @@
+org/qacafe/testaautomation/TestClass.java
+ org.qacafe.testaautomation.TestClass
